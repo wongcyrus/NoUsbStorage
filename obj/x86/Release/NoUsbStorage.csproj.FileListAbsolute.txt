@@ -1,0 +1,10 @@
+C:\Users\cywong\Desktop\Working\NoUsbStorage\NoUsbStorage\bin\Release\NoUsbStorage.exe
+C:\Users\cywong\Desktop\Working\NoUsbStorage\NoUsbStorage\bin\Release\NoUsbStorage.pdb
+C:\Users\cywong\Desktop\Working\NoUsbStorage\NoUsbStorage\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cywong\Desktop\Working\NoUsbStorage\NoUsbStorage\obj\x86\Release\NoUsbStorage.exe
+C:\Users\cywong\Desktop\Working\NoUsbStorage\NoUsbStorage\obj\x86\Release\NoUsbStorage.pdb
+C:\Users\cywong\Desktop\NoUsbStorage\NoUsbStorage\obj\x86\Release\NoUsbStorage.exe
+C:\Users\cywong\Desktop\NoUsbStorage\NoUsbStorage\obj\x86\Release\NoUsbStorage.pdb
+C:\Users\cywong\Desktop\NoUsbStorage\NoUsbStorage\bin\Release\NoUsbStorage.exe
+C:\Users\cywong\Desktop\NoUsbStorage\NoUsbStorage\bin\Release\NoUsbStorage.pdb
+C:\Users\cywong\Desktop\NoUsbStorage\NoUsbStorage\obj\x86\Release\ResolveAssemblyReference.cache
